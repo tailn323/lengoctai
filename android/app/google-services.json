@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1077807844227",
+    "project_id": "shopquatang-a1ec3",
+    "storage_bucket": "shopquatang-a1ec3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077807844227:android:88f889c782d0ec3c4684b6",
+        "android_client_info": {
+          "package_name": "com.flum223757.shopqua_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077807844227-fk2iv0je7atfg5difr956lrepi624pea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flum223757.shopqua_app",
+            "certificate_hash": "23f445516904d8efc176aaf8d49f8decc131ccb7"
+          }
+        },
+        {
+          "client_id": "1077807844227-4h6vsc51i62ts9nt1hskibb79stlg3kj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA73_TxpVCOXPNf2HYi6jwK1SyzsXbZNm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1077807844227-4h6vsc51i62ts9nt1hskibb79stlg3kj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
